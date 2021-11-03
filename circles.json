@@ -10,7 +10,7 @@
          {"name": "Node6", "size": 100, "color":"#3E989A","description":"Description here"}
          ]
         },
-        {"name": "Node3", "size": 200, "color":"#3E989A","description":"Description here","url":"www.google.com"}
+        {"name": "Node3", "size": 200, "color":"#3E989A","description":"Description here"}
       ]
     },
    { "name": "Node2","color":"#6F5B92","description":"Description here",
