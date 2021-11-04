@@ -2,21 +2,21 @@
 { 
 "name": "Main Node","color":"#FFFFFF",
   "children": [
-  { "name": "Node1","color":"#3E989A","description":"Description here",
+  { "name": "Node1 ","color":"#3E989A","description":"Description here ",
       "children": [
-        {"name": "Node4", "size": 200, "color":"#3E989A","description":"Description here",
+        {"name": "Node4 ", "size": 200, "color":"#3E989A","description":"Description here ",
         "children": [ 
-         {"name": "Node5", "size": 100, "color":"#3E989A","description":"Description here","url":"www.google.com"},
-         {"name": "Node6", "size": 100, "color":"#3E989A","description":"Description here","url":"www.google.com"}
+         {"name": "Node5 ", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com"},
+         {"name": "Node6 ", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com"}
          ]
         },
-        {"name": "Node3", "size": 200, "color":"#3E989A","description":"Description here"}
+        {"name": "Node3", "size": 200, "color":"#3E989A","description":"Description here "}
       ]
     },
-   { "name": "Node2","color":"#6F5B92","description":"Description here",
+   { "name": "Node2 ","color":"#6F5B92","description":"Description here ",
       "children": [
-        {"name": "Node7", "size": 200, "color":"#644380","description":"Description here","url":"www.google.com"},
-        {"name": "Node8", "size": 200, "color":"#644380","description":"Description here","url":"www.google.com"}
+        {"name": "Node7 ", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com"},
+        {"name": "Node8 ", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com"}
       ]
     }
   ]
