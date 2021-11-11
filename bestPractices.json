@@ -3,19 +3,19 @@
   "children": [
   { "name": "Course Structure","color":"#3E989A","description":"Description here ","card":"CourseStructure.png",
       "children": [
-        {"name": "Node4 ", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg",
+        {"name": "Golden Rules", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg",
         "children": [ 
-         {"name": "Node5 ", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
-         {"name": "Node6 ", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
+         {"name": "Be concise", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
+         {"name": "Structure content in modules", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
          ]
         },
-        {"name": "Node3", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg"}
+        {"name": "Course Design", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg"}
       ]
     },
    { "name": "Digital Tools","color":"#6F5B92","description":"Description here ","card":"DigitalTools.png",
       "children": [
-        {"name": "Node7 ", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
-        {"name": "Node8 ", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
+        {"name": "Real-time Communication", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
+        {"name": "Sharing", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
       ]
     }
   ]
