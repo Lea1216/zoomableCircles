@@ -1,3 +1,4 @@
+
 { 
 "name": "Best Practices","color":"#FFFFFF","card":"Lea.jpg",
   "children": [
@@ -5,19 +6,24 @@
       "children": [
         {"name": "Golden Rules", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg",
         "children": [ 
-         {"name": "Be concise", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
+         {"name": "Be Concise", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
          {"name": "Structure content in modules", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
          ]
         },
         {"name": "Course Design", "size": 200, "color":"#3E989A","description":"Description here ","card":"Lea.jpg"}
       ]
     },
-   { "name": "Digital Tools","color":"#6F5B92","description":"Description here ","card":"DigitalTools.png",
+   { "name": "Digital Tools","color":"#6F5B92","description":"Description here ","card":"Lea.jpg",
       "children": [
         {"name": "Real-time Communication", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
         {"name": "Sharing", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
       ]
+    },
+    { "name": "x","color":"#67A363","description":"Description here ","card":"DigitalTools.png",
+      "children": [
+        {"name": "x", "size": 200, "color":"#4c9455","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
+        {"name": "x", "size": 200, "color":"#4c9455","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
+      ]
     }
   ]
-}  
-
+}
