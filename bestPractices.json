@@ -17,12 +17,5 @@
         {"name": "Real-time Communication", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
         {"name": "Sharing", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
       ]
-    },
-    { "name": "x","color":"#67A363","description":"Description here ","card":"DigitalTools.png",
-      "children": [
-        {"name": "x", "size": 200, "color":"#4c9455","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
-        {"name": "x", "size": 200, "color":"#4c9455","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
-      ]
     }
-  ]
 }
