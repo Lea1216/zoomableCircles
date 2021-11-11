@@ -18,5 +18,11 @@
         {"name": "Sharing", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
       ]
     }
+    { "name": "Digital Tools","color":"#6F5B92","description":"Description here ","card":"DigitalTools.png",
+      "children": [
+        {"name": "Real-time Communication", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"},
+        {"name": "Sharing", "size": 200, "color":"#644380","description":"Description here ","url":"www.google.com","card":"Lea.jpg"}
+      ]
+    }
   ]
 }
